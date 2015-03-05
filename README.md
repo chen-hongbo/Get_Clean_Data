@@ -20,7 +20,7 @@
      - train dataset: 'train/X_train.txt | train/Y_train.txt'
        Description:    Training set
 
-## How to Create the tidy datat set: ##
+## Create the tidy datat set: ##
 
      - run R then run last from console,the name of the tidy data set is second_data_set.txt  
      - > source("run_analysis.R")
