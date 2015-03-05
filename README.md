@@ -7,14 +7,17 @@
 
 
 ## Data Set: ##
-       1. feature dataset : 'features.txt'
-          Description: List of all features
-       2. activity dataset: 'activity_labels.txt' 
-          Description: Links the class labels with their activity name
-       3. test dataset: 'test/X_train.txt | test/Y_train.txt' 
-          Description: Training set
-       4. train dataset: 'train/X_train.txt | train/Y_train.txt'
-          Description: Training set
+       - **feature dataset :** 'features.txt'
+         **Description:     ** List of all features
+       
+       - **activity dataset: ** 'activity_labels.txt' 
+          **Description:     ** Links the class labels with their activity name
+      
+       -  **test dataset: ** 'test/X_train.txt | test/Y_train.txt' 
+          **Description:  ** Training set
+       
+       - **train dataset:  ** 'train/X_train.txt | train/Y_train.txt'
+         ** Description:   **  Training set
 
 ## How to Create the tidy datat set: ##
 
