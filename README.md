@@ -22,6 +22,7 @@
 
 ## Create the tidy datat set: ##
 
-     - run R then run last from console,the name of the tidy data set is second_data_set.txt  
-     - > source("run_analysis.R")
-     - > run_analysis()
+ executed via the submit script that you run on your computer. To obtain the submit script, run the following code in R:  
+
+ source("run_analysis.R")
+ run_analysis()
