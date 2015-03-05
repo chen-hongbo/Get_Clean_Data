@@ -13,6 +13,6 @@
 ## LOADING THE DATA: ##
 
 
-## MAKE TIDY DATA SET: ##
+## How to Create the tidy datat set: ##
 
 
