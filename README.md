@@ -5,6 +5,15 @@
   
   - Data File: [https://d396qusza40orc.cloudfront.net/getdata projectfiles UCI HAR Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata projectfiles UCI HAR Dataset.zip)
   - Data Set : 
+       feature dataset ：
+       
+       activity dataset:
+
+       test dataset
+       
+       train dataset
+       
+       
 
 ## LOADING THE DATA: ##
 
