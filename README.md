@@ -22,6 +22,6 @@
 
 ## How to Create the tidy datat set: ##
 
-     - run R and run last from console
+     - run R then run last from console,the name of the tidy data set is second_data_set.txt  
      - > source("run_analysis.R")
      - > run_analysis()
