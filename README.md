@@ -22,3 +22,6 @@
 
 ## How to Create the tidy datat set: ##
 
+     - run R and run last from console
+     - > source("run_analysis.R")
+     - > run_analysis()
