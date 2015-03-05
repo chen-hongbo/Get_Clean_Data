@@ -24,5 +24,5 @@
 
  executed via the submit script that you run on your computer. To obtain the submit script, run the following code in R:  
 
- source("run_analysis.R")
- run_analysis()
+    source("run_analysis.R")
+    run_analysis()
