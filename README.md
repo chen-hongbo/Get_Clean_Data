@@ -4,14 +4,15 @@
   
   - **Data File:** [https://d396qusza40orc.cloudfront.net/getdata projectfiles UCI HAR Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata projectfiles UCI HAR Dataset.zip)
   - **Data Set: **
-       1. feature dataset: 'features.txt' [List of all features]
+       1. feature dataset : 'features.txt' [List of all features]
        2. activity dataset: 'activity_labels.txt' [Links the class labels with their activity name]
-       3. test dataset: 'test/X_train.txt | test/Y_train.txt': Training set
-       4. train dataset: 'train/X_train.txt | train/Y_train.txt': Training set
+       3. test dataset    : 'test/X_train.txt | test/Y_train.txt': Training set
+       4. train dataset   : 'train/X_train.txt | train/Y_train.txt': Training set
 
 
 ## LOADING THE DATA: ##
 
 
 ## MAKE TIDY DATA SET: ##
+
 
