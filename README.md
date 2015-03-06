@@ -22,7 +22,7 @@
 
 ## Create the tidy datat set: ##
 
- executed via the submit script that you run on your computer. To obtain the submit script, run the following code in R:  
+ executed via the submit script that you run on your computer. To obtain the submit script, run the following code in R，the submit data set is name to second_data_set.txt:  
 
     source("run_analysis.R")
     run_analysis()
