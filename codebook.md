@@ -17,27 +17,27 @@ ACTIVE 16
 
 TBodyAcc-mean()-X 1
    
-    the mean of acceleration X-signal
+    average value of accelerometer X direction signal
      
 TBodyAcc-mean()-Y 1
 
-    the mean of acceleration Y-signal
+    average value of accelerometer Y direction signal
    
 TBodyAcc-mean()-Z 1
 
-    the mean of acceleration Z-signal
+    average value of accelerometer Z direction signal
      
 tGravityAcc-mean()-X
 
-    the mean of Gravity acceleration X-signal
+    average value of gravrity accelerometer X direction signal
 
 tGravityAcc-mean()-Y
 
-    the mean of Gravity acceleration Y-signal
+    average value of gravrity accelerometer Y direction signal
 
 tGravityAcc-mean()-Z
 
-    the mean of Gravity acceleration Z-signal
+    average value of gravrity accelerometer Z direction signal
 
 tBodyAccJerk-mean()-X
 
