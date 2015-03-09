@@ -17,186 +17,186 @@ ACTIVE 16
 
 TBodyAcc-mean()-X 1
    
-    average value of accelerometer X direction signal
+    average value of Accelerometer X direction signal
      
 TBodyAcc-mean()-Y 1
 
-    average value of accelerometer Y direction signal
+    average value of Accelerometer Y direction signal
    
 TBodyAcc-mean()-Z 1
 
-    average value of accelerometer Z direction signal
+    average value of Accelerometer Z direction signal
      
 tGravityAcc-mean()-X
 
-    average value of gravrity accelerometer X direction signal
+    average value of Gravrity Accelerometer X direction signal
 
 tGravityAcc-mean()-Y
 
-    average value of gravrity accelerometer Y direction signal
+    average value of Gravrity Accelerometer Y direction signal
 
 tGravityAcc-mean()-Z
 
-    average value of gravrity accelerometer Z direction signal
+    average value of Gravrity Accelerometer Z direction signal
 
 tBodyAccJerk-mean()-X
 
-    the mean of Jerk acceleration X-signal
+    average value of Jerk Acceleration X direction signal
 
 tBodyAccJerk-mean()-Y 
 
-    the mean of Jerk acceleration Y-signal
+    average value of Jerk Acceleration Y direction signal
 
 tBodyAccJerk-mean()-Z
 
-    the mean of Jerk acceleration Z-signal
+    average value of Jerk Acceleration Z direction signal
 
 tBodyGyro-mean()-X 
 
-    the mean of Gyro X-signal
+    average value of Gyroscope X direction signal
 
 tBodyGyro-mean()-Y
 
-    the mean of Gyro Y-signal
+    average value of Gyroscope Y direction signal
 
 tBodyGyro-mean()-Z 
 
-    the mean of Gyro Z-signal
+    average value of Gyroscope Z direction signal
 
 tBodyGyroJerk-mean()-X
 
-    the mean of GyroJerk X-signal
+    average value of Jerk Gyroscope X direction signal
 
 tBodyGyroJerk-mean()-Y 
 
-    the mean of GyroJerk Y-signal
+    average value of Jerk Gyroscope Y direction signal
 
 tBodyGyroJerk-mean()-Z
 
-    the mean of GyroJerk Z-signal
+    average value of Jerk Gyroscope Z direction signal
 
 tBodyAccMag-mean()
 
-    the mean of AccMag
+    average value of Acceleration signal using the Euclidean norm
 
 tGravityAccMag-mean()
 
-    the mean of GravityAccMag
+    average value of Gravity Acceleration signal using the Euclidean norm
 
 tBodyAccJerkMag-mean()
 
-    the mean of AccJerkMag
+    average value of Jerk Acceleration signal using the Euclidean norm
 
 tBodyGyroMag-mean()
 
-    the mean of GyroMag
+    average value of Gyroscope signal using the Euclidean norm
 
 tBodyGyroJerkMag-mean()
 
-    the mean of GyroJerkMag
+    average value of Jerk Gyroscope signal using the Euclidean norm
 
 fBodyAcc-mean()-X
     
-   the mean of Acc X
+   average value of Accelerometer X direction signal using EFT
 
 fBodyAcc-mean()-Y
 
-   the mean of Acc Y 
+   average value of Accelerometer Y direction signal using EFT
 
 fBodyAcc-mean()-Z
 
-    the mean of Acc Z
+    average value of Accelerometer Z direction signal using EFT
 
 fBodyAcc-meanFreq()-X
 
-    the mean of Acc Freq X
+    average value of Accelerometer X direction signal with Freq 0.3HZ
 
 fBodyAcc-meanFreq()-Y
 
-    the mean of Acc Freq Y
+    average value of Accelerometer Y direction signal with Freq 0.3HZ
 
 fBodyAcc-meanFreq()-Z
 
-    the mean of Acc Freq Z
+    average value of Accelerometer Z direction signal with Freq 0.3HZ
 
 fBodyAccJerk-mean()-X
 
-    the mean of AccJerk X
+    average value of Jerk Accelerometer X direction signal using EFT
 
 fBodyAccJerk-mean()-Y
 
-    the mean of AccJerk Y
+    average value of Jerk Accelerometer Y direction signal using EFT
 
 fBodyAccJerk-mean()-Z
 
-    the mean of AccJerk Z
+    average value of Jerk Accelerometer Z direction signal using EFT
 
 fBodyAccJerk-meanFreq()-X 
 
-    the mean of AccJerk Freg X
+    average value of Jerk Accelerometer X direction signal with 0.3HZ using EFT
 
 fBodyAccJerk-meanFreq()-Y
 
-    the mean of AccJerk Freg Y
+    average value of Jerk Accelerometer Y direction signal with 0.3HZ using EFT
 
 fBodyAccJerk-meanFreq()-Z
 
-    the mean of AccJerk Freg Z
+    average value of Jerk Accelerometer Z direction signal with 0.3HZ using EFT
       
 fBodyGyro-mean()-X
 
-    the mean of Gyro X
+    average value of Gyroscope X direction signal using EFT
 
 fBodyGyro-mean()-Y
 
-    the mean of Gyro Y
+    average value of Gyroscope Y direction signal using EFT
 
 fBodyGyro-mean()-Z
 
-    the mean of Gyro Z
+    average value of Gyroscope Z direction signal using EFT
 
 fBodyGyro-meanFreq()-X
 
-    the mean of Gyro Freg X
+    average value of Gyroscope X direction signal with 0.3HZ using EFT
 
 fBodyGyro-meanFreq()-Y
 
-    the mean of Gyro Freg Y
+    average value of Gyroscope Y direction signal with 0.3HZ using EFT
 
 fBodyGyro-meanFreq()-Z
 
-    the mean of Gyro Freg Z
+    average value of Gyroscope Z direction signal with 0.3HZ using EFT
 
 fBodyAccMag-mean()
 
-    the mean of AccMag
+    average value of Acceleration signal using the EFT
 
 fBodyAccMag-meanFreq()
 
-    the mean of AccMag Freq
+    average value of Acceleration signal with 0.3HZ using the EFT
 
 fBodyBodyAccJerkMag-mean()
     
-    the mean of AccJrekMag
+    average value of Jerk Acceleration signal using the EFT
 
 fBodyBodyAccJerkMag-meanFreq()
 
-    the mean of AccJrekMag Freq
+    average value of Acceleration signal with 0.3HZ using the EFT
 
 fBodyBodyGyroMag-mean()
 
-    the mean of GyroMag
+    average value of Gyroscope signal using the EFT
 
 fBodyBodyGyroMag-meanFreq()
 
-    the mean of GyroMag Freq
+    average value of Gyroscope signal with 0.3HZ using the EFT
 
 fBodyBodyGyroJerkMag-mean()
 
-    the mean of GyroJrekMag
+    average value of Jerk Gyroscope signal using the EFT
 
 fBodyBodyGyroJerkMag-meanFreq()
 
-    the mean of GyroJrekMag Freq
+    average value of Jerk Gyroscope signal with 0.3HZ using the EFT
 
 
